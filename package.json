@@ -1,7 +1,7 @@
 {
   "name": "spoko",
   "version": "0.0.0",
-  "description": "rest api helpers",
+  "description": "rest json api helpers",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -13,12 +13,14 @@
   "keywords": [
     "rest",
     "api",
-    "helpers"
+    "json"
   ],
   "author": "Paul Vonderscher",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/VonD/spoko/issues"
   },
-  "homepage": "https://github.com/VonD/spoko"
+  "homepage": "https://github.com/VonD/spoko",
+  "dependencies": {
+  }
 }
